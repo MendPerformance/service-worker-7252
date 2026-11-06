@@ -39,7 +39,7 @@ object Dependencies {
             const val material = "1.11.0"
             const val coil = "2.5.0"
             const val coroutines = "1.7.3"
-            const val retrofit = "2.9.0"
+            const val retrofit = "2.10.0"
             const val koin = "3.5.3"
 
         }
